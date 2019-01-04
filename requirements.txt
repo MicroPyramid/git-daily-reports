@@ -1,5 +1,5 @@
 PyGithub==1.26.0
 python-gitlab==0.9.2
-requests==2.8.1
+requests==2.20.0
 six==1.10.0
 wheel==0.24.0
